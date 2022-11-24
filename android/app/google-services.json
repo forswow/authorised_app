@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493647782333",
+    "project_id": "auth-f4485",
+    "storage_bucket": "auth-f4485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493647782333:android:be70b35dc9982037bcf2d4",
+        "android_client_info": {
+          "package_name": "com.example.authorised_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493647782333-9i3j10nncejc78gmc77d9n69ip0og9od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAncRrj4E7o4dwYUbTbW9DfeLXgpcvMT98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493647782333-9i3j10nncejc78gmc77d9n69ip0og9od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
